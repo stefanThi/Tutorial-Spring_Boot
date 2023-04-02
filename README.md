@@ -1,9 +1,3 @@
-# Kursmaterial
+This was a standard Tutorial on Udemy I finished yesterday.
 
-Du findest hier die vorbereiteten Quelltexte für den Kurs "Spring und Hibernate".
-
-Falls du die fertigen Sourcen des Kurses einsehen möchtest, dann check dir den folgenden Branch aus:
-https://github.com/Christian-Oette/course-spring-with-hibernate/tree/feature/full-sources
-
-Das Quick-Win Demo Beispiel aus dem ersten Kapitel findest du hier:
-https://github.com/Christian-Oette/course-spring-with-hibernate-quick-win-demo
+Contributes to the author, Christian Oette via https://www.udemy.com/course/spring-beginner/learn/lecture/14665932
